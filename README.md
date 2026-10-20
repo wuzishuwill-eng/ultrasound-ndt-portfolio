@@ -1,9 +1,11 @@
 # Ultrasound NDT Experiments
 
-Experimental portfolio from my work in the Laser Ultrasound Lab at Nanjing University. The first case study covers a water-immersion ultrasound experiment. Additional experiments may be added after their materials are ready for public release.
+An experimental portfolio based on my work in the Laser Ultrasound Lab at Nanjing University. It documents the systems I built, the tests I performed, and the evidence available for each result. The work described here is unpublished.
 
-| Case study | Status |
+## Case studies
+
+| Project | Scope |
 | --- | --- |
-| [Water-immersion ultrasound experiment 01](experiments/01-water-immersion-ultrasound/README.md) | Draft; technical details and results pending |
+| [3D water-immersion ultrasonic scanning system](experiments/01-water-immersion-ultrasound/README.md) | System build and initial validation using a stepped block and a flat-bottom-hole block |
 
-This repository documents experimental work, not peer-reviewed publications. Each case study will distinguish my own contributions from collaborative work and state the limits of the reported results.
+Additional experiments may be added when their materials are ready for public release.
